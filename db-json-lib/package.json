@@ -1,6 +1,6 @@
 {
   "name": "db-json-lib",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Lib database json",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
