@@ -1,0 +1,21 @@
+{
+  "name": "db-json-lib",
+  "version": "1.1.0",
+  "description": "Lib database json",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Makerjunior/-db-json-lib.git"
+  },
+  "author": "Mente Maker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Makerjunior/-db-json-lib/issues"
+  },
+  "homepage": "https://github.com/Makerjunior/-db-json-lib#readme"
+}
