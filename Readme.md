@@ -78,7 +78,7 @@ constructor(filename?: string)
 - Esta biblioteca é projetada para operar com arquivos JSON e utiliza o módulo `fs` do Node.js.
 - Sempre mantenha backups regulares do seu arquivo de banco de dados para evitar perda de dados.
 
-Clique na logo acima para acessar o canal no YouTube.
+Clique aqui 👇 :point_down:👇 :point_down:👇 :point_down:👇 :point_down:
 
 
 [![Mente Maker](logo.png)](https://www.youtube.com/channel/UCdHR_M4vqK1rtKo56RMQ9tQ)
