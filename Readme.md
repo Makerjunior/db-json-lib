@@ -79,6 +79,8 @@ constructor(filename?: string)
 - Sempre mantenha backups regulares do seu arquivo de banco de dados para evitar perda de dados.
 
 Clique na logo acima para acessar o canal no YouTube.
+
+
 [![Mente Maker](logo.png)](https://www.youtube.com/channel/UCdHR_M4vqK1rtKo56RMQ9tQ)
 
 
